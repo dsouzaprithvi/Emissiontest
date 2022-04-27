@@ -2,6 +2,7 @@
 
 sms format
 
+
 STATUS
-Voltage :9.24V
-CO :1.30 ppm
+Voltage :12.56V
+CO :1.25 ppm
